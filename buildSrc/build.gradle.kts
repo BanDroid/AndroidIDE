@@ -28,5 +28,5 @@ repositories {
 dependencies {
     implementation(gradleApi())
   implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-  implementation("com.google.googlejavaformat:google-java-format:1.15.0")
+  implementation("com.google.googlejavaformat:google-java-format:1.16.0")
 }
